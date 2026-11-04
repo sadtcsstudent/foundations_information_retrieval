@@ -1,0 +1,4 @@
+test,statistic,p_value,p < 0.05
+Wilcoxon signed-rank,79.0,0.0005415735513857811,True
+Exact sign test,0.6875,0.050102459732443094,False
+Paired t-test,3.0659847518799817,0.004039349310582997,True

@@ -1,0 +1,39 @@
+qid,query,symbol,known_relevant,added_aliases,baseline_AP,baseline_P10,baseline_recall1000,expanded_AP,expanded_P10,expanded_recall1000,AP_change
+1,"""cyclin-dependent kinase inhibitor 1A (p21, Cip1)"" in Homo sapiens",CDKN1A,31,7,0.1744534361357499,0.2,0.8064516129032258,0.18672556039326801,0.2,0.8387096774193549,0.012272124257518113
+3,ets variant gene 6 (TEL oncogene) in Homo sapiens,ETV6,6,3,0.19234511008704558,0.1,0.8333333333333334,0.36537281579298386,0.3,1.0,0.17302770570593828
+4,fibroblast growth factor 7 (keratinocyte growth factor) in Homo sapiens,FGF7,3,3,0.1788060788060788,0.1,1.0,0.07360239978183801,0.1,1.0,-0.10520367902424078
+5,"""glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)"" in Homo sapiens",GLRA1,5,3,0.0219892386748026,0.0,1.0,0.0219892386748026,0.0,1.0,0.0
+6,"""major histocompatibility complex, class II, DQ beta 1"" in Homo sapiens",HLA-DQB1,8,4,0.0006526206426408316,0.0,0.25,0.008061974789915966,0.0,0.375,0.007409354147275134
+7,Janus kinase 2 (a protein tyrosine kinase) in Homo sapiens,JAK2,4,2,0.000663129973474801,0.0,0.25,0.017948717948717947,0.0,0.5,0.017285587975243145
+8,luteinizing hormone/choriogonadotropin receptor in Homo sapiens,LHCGR,3,10,0.020371877370385438,0.0,1.0,0.20238095238095236,0.2,1.0,0.18200907501056693
+9,metallothionein 3 (growth inhibitory factor (neurotrophic)) in Homo sapiens,MT3,2,5,0.0018315018315018315,0.0,0.5,0.0018115942028985507,0.0,0.5,-1.9907628603280754e-05
+10,protein C (inactivator of coagulation factors Va and VIIIa) in Homo sapiens,PROC,7,6,0.2911048278121801,0.2,0.7142857142857143,0.30092780026990557,0.3,0.8571428571428571,0.009822972457725454
+11,"""ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)"" in Homo sapiens",RAC1,8,5,0.02827995794964758,0.0,0.875,0.02809254346444439,0.0,0.875,-0.00018741448520319046
+12,tropomyosin 1 (alpha) in Homo sapiens,TPM1,1,8,0.018867924528301886,0.0,1.0,0.018867924528301886,0.0,1.0,0.0
+13,frizzled homolog 4 (Drosophila) in Homo sapiens,FZD4,1,10,0.034482758620689655,0.0,1.0,1.0,0.1,1.0,0.9655172413793104
+14,tyrosyl-tRNA synthetase in Homo sapiens,YARS1,4,7,0.5094696969696969,0.3,1.0,0.4698879551820728,0.3,1.0,-0.03958174178762408
+15,major vault protein in Homo sapiens,MVP,1,3,0.0,0.0,0.0,0.02631578947368421,0.0,1.0,0.02631578947368421
+16,"""adrenergic receptor, alpha 1d"" in Mus musculus",Adra1d,1,8,1.0,0.1,1.0,1.0,0.1,1.0,0.0
+18,"""caspase 3, apoptosis related cysteine protease"" in Mus musculus",Casp3,4,11,0.011629308281594735,0.0,1.0,0.010828183548693443,0.0,1.0,-0.000801124732901292
+20,"""tumor necrosis factor (ligand) superfamily, member 6"" in Mus musculus",Fasl,7,10,0.0,0.0,0.0,0.06483330279235072,0.1,0.7142857142857143,0.06483330279235072
+22,Indian hedgehog in Mus musculus,Ihh,3,2,0.03546112756639073,0.0,1.0,0.2847222222222222,0.1,1.0,0.2492610946558315
+23,"""phospholipase C, gamma 1"" in Mus musculus",Plcg1,5,5,0.015105846778873208,0.0,0.8,0.44066924066924057,0.3,0.8,0.42556339389036735
+24,seven in absentia 2 in Mus musculus,Siah2,1,2,0.0,0.0,0.0,0.125,0.1,1.0,0.125
+25,"""deoxynucleotidyltransferase, terminal"" in Mus musculus",Dntt,1,2,0.0,0.0,0.0,0.06666666666666667,0.0,1.0,0.06666666666666667
+27,"""cholinergic receptor, muscarinic 3"" in Rattus norvegicus",Chrm3,1,1,0.08333333333333333,0.0,1.0,0.08333333333333333,0.0,1.0,0.0
+28,Early growth response 1 in Rattus norvegicus,Egr1,6,6,0.0035028004394258654,0.0,0.3333333333333333,0.007850111198325484,0.0,0.5,0.0043473107588996186
+29,Glucokinase in Rattus norvegicus,Gck,1,4,0.01694915254237288,0.0,1.0,0.016129032258064516,0.0,1.0,-0.0008201202843083656
+31,"""Tachykinin (substance P, neurokinin A, neuropeptide K, neuropeptide gamma)"" in Rattus norvegicus",Tac1,3,5,0.00647980020483629,0.0,1.0,0.006321133798233174,0.0,1.0,-0.00015866640660311664
+32,estrogen receptor 1 in Rattus norvegicus,Esr1,4,4,0.009967527028582467,0.0,1.0,0.0073469762747339525,0.0,1.0,-0.002620550753848514
+34,cocaine and amphetamine regulated transcript in Rattus norvegicus,Cartpt,3,2,0.002563877168307548,0.0,0.6666666666666666,0.04567567567567568,0.1,1.0,0.04311179850736813
+36,hopscotch in Drosophila melanogaster,hop,2,20,0.509090909090909,0.1,1.0,0.8333333333333333,0.2,1.0,0.3242424242424242
+37,Slowpoke binding protein in Drosophila melanogaster,Slob,1,7,0.0017331022530329288,0.0,1.0,0.0017331022530329288,0.0,1.0,0.0
+38,eiger in Drosophila melanogaster,egr,1,12,0.5,0.1,1.0,0.5,0.1,1.0,0.0
+39,shotgun in Drosophila melanogaster,shg,2,36,0.0035925260048799285,0.0,1.0,0.1144927536231884,0.1,1.0,0.11090022761830848
+40,Signal-transducer and activator of transcription protein at 92E in Drosophila melanogaster,Stat92E,2,26,0.0,0.0,0.0,0.10476190476190475,0.1,1.0,0.10476190476190475
+42,crumbs in Drosophila melanogaster,crb,4,12,0.5699561403508772,0.3,1.0,0.5428571428571429,0.4,1.0,-0.027098997493734234
+44,golgi phosphoprotein 2 in Homo sapiens,GOLM1,1,7,0.003472222222222222,0.0,1.0,1.0,0.1,1.0,0.9965277777777778
+45,sorting nexin 9 in Homo sapiens,SNX9,2,5,0.6428571428571428,0.2,1.0,1.0,0.2,1.0,0.3571428571428572
+46,"""ankylosis, progressive homolog (mouse)"" in Homo sapiens",ANKH,2,8,0.09999999999999999,0.1,1.0,1.0,0.2,1.0,0.9
+48,"""DNA cross-link repair 1C (PSO2 homolog, S. cerevisiae)"" in Homo sapiens",DCLRE1C,2,6,0.0,0.0,0.0,0.09109311740890688,0.0,1.0,0.09109311740890688
+50,Pax-8 protein in Rattus norvegicus,Pax8,1,1,0.07142857142857142,0.0,1.0,0.06666666666666667,0.0,1.0,-0.004761904761904759

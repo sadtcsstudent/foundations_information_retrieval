@@ -1,0 +1,9 @@
+.venv/
+data01/
+data01.zip
+ncbi_cache/
+__pycache__/
+.ipynb_checkpoints/
+*.partial
+paper/
+ai-disclosure/
